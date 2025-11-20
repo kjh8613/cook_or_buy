@@ -1,0 +1,2449 @@
+[
+    {
+        "menu_name": "김치찌개",
+        "delivery_avg_price": 13000,
+        "ingredients": [
+            {
+                "name": "돼지고기",
+                "amount_g": 200,
+                "category_code": "PORK"
+            },
+            {
+                "name": "김치",
+                "amount_g": 300,
+                "category_code": "KIMCHI"
+            },
+            {
+                "name": "두부",
+                "amount_g": 150,
+                "category_code": "TOFU"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "제육볶음",
+        "delivery_avg_price": 15000,
+        "ingredients": [
+            {
+                "name": "돼지고기",
+                "amount_g": 300,
+                "category_code": "PORK"
+            },
+            {
+                "name": "양파",
+                "amount_g": 100,
+                "category_code": "ONION"
+            },
+            {
+                "name": "대파",
+                "amount_g": 50,
+                "category_code": "GREEN_ONION"
+            }
+        ],
+        "cooking_time_min": 25
+    },
+    {
+        "menu_name": "된장찌개",
+        "delivery_avg_price": 12000,
+        "ingredients": [
+            {
+                "name": "두부",
+                "amount_g": 200,
+                "category_code": "TOFU"
+            },
+            {
+                "name": "애호박",
+                "amount_g": 100,
+                "category_code": "ZUCCHINI"
+            },
+            {
+                "name": "된장",
+                "amount_g": 50,
+                "category_code": "SOYBEAN_PASTE"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "비빔밥",
+        "delivery_avg_price": 11000,
+        "ingredients": [
+            {
+                "name": "쌀밥",
+                "amount_g": 200,
+                "category_code": "RICE"
+            },
+            {
+                "name": "콩나물",
+                "amount_g": 50,
+                "category_code": "BEAN_SPROUTS"
+            },
+            {
+                "name": "시금치",
+                "amount_g": 50,
+                "category_code": "SPINACH"
+            },
+            {
+                "name": "계란",
+                "amount_g": 60,
+                "category_code": "EGG"
+            }
+        ],
+        "cooking_time_min": 40
+    },
+    {
+        "menu_name": "떡볶이",
+        "delivery_avg_price": 14000,
+        "ingredients": [
+            {
+                "name": "떡",
+                "amount_g": 300,
+                "category_code": "RICE_CAKE"
+            },
+            {
+                "name": "어묵",
+                "amount_g": 100,
+                "category_code": "FISH_CAKE"
+            },
+            {
+                "name": "대파",
+                "amount_g": 50,
+                "category_code": "GREEN_ONION"
+            }
+        ],
+        "cooking_time_min": 25
+    },
+    {
+        "menu_name": "불고기",
+        "delivery_avg_price": 18000,
+        "ingredients": [
+            {
+                "name": "소고기",
+                "amount_g": 300,
+                "category_code": "BEEF"
+            },
+            {
+                "name": "양파",
+                "amount_g": 100,
+                "category_code": "ONION"
+            },
+            {
+                "name": "버섯",
+                "amount_g": 50,
+                "category_code": "MUSHROOM"
+            }
+        ],
+        "cooking_time_min": 35
+    },
+    {
+        "menu_name": "순두부찌개",
+        "delivery_avg_price": 12000,
+        "ingredients": [
+            {
+                "name": "순두부",
+                "amount_g": 350,
+                "category_code": "SOFT_TOFU"
+            },
+            {
+                "name": "계란",
+                "amount_g": 60,
+                "category_code": "EGG"
+            },
+            {
+                "name": "대파",
+                "amount_g": 30,
+                "category_code": "GREEN_ONION"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "잡채",
+        "delivery_avg_price": 16000,
+        "ingredients": [
+            {
+                "name": "당면",
+                "amount_g": 150,
+                "category_code": "GLASS_NOODLE"
+            },
+            {
+                "name": "시금치",
+                "amount_g": 50,
+                "category_code": "SPINACH"
+            },
+            {
+                "name": "당근",
+                "amount_g": 50,
+                "category_code": "CARROT"
+            }
+        ],
+        "cooking_time_min": 50
+    },
+    {
+        "menu_name": "닭갈비",
+        "delivery_avg_price": 25000,
+        "ingredients": [
+            {
+                "name": "닭고기",
+                "amount_g": 400,
+                "category_code": "CHICKEN"
+            },
+            {
+                "name": "양배추",
+                "amount_g": 200,
+                "category_code": "CABBAGE"
+            },
+            {
+                "name": "고구마",
+                "amount_g": 100,
+                "category_code": "SWEET_POTATO"
+            }
+        ],
+        "cooking_time_min": 40
+    },
+    {
+        "menu_name": "오징어볶음",
+        "delivery_avg_price": 16000,
+        "ingredients": [
+            {
+                "name": "오징어",
+                "amount_g": 300,
+                "category_code": "SQUID"
+            },
+            {
+                "name": "양파",
+                "amount_g": 100,
+                "category_code": "ONION"
+            },
+            {
+                "name": "당근",
+                "amount_g": 50,
+                "category_code": "CARROT"
+            }
+        ],
+        "cooking_time_min": 25
+    },
+    {
+        "menu_name": "삼계탕",
+        "delivery_avg_price": 15000,
+        "ingredients": [
+            {
+                "name": "닭고기",
+                "amount_g": 800,
+                "category_code": "CHICKEN"
+            },
+            {
+                "name": "인삼",
+                "amount_g": 20,
+                "category_code": "GINSENG"
+            },
+            {
+                "name": "대추",
+                "amount_g": 10,
+                "category_code": "JUJUBE"
+            }
+        ],
+        "cooking_time_min": 60
+    },
+    {
+        "menu_name": "갈비찜",
+        "delivery_avg_price": 35000,
+        "ingredients": [
+            {
+                "name": "소갈비",
+                "amount_g": 600,
+                "category_code": "BEEF_RIB"
+            },
+            {
+                "name": "무",
+                "amount_g": 200,
+                "category_code": "RADISH"
+            },
+            {
+                "name": "당근",
+                "amount_g": 100,
+                "category_code": "CARROT"
+            }
+        ],
+        "cooking_time_min": 90
+    },
+    {
+        "menu_name": "부대찌개",
+        "delivery_avg_price": 18000,
+        "ingredients": [
+            {
+                "name": "햄",
+                "amount_g": 200,
+                "category_code": "HAM"
+            },
+            {
+                "name": "소시지",
+                "amount_g": 150,
+                "category_code": "SAUSAGE"
+            },
+            {
+                "name": "김치",
+                "amount_g": 150,
+                "category_code": "KIMCHI"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "감자탕",
+        "delivery_avg_price": 28000,
+        "ingredients": [
+            {
+                "name": "돼지등뼈",
+                "amount_g": 800,
+                "category_code": "PORK_BONE"
+            },
+            {
+                "name": "감자",
+                "amount_g": 300,
+                "category_code": "POTATO"
+            },
+            {
+                "name": "우거지",
+                "amount_g": 200,
+                "category_code": "CABBAGE_LEAVES"
+            }
+        ],
+        "cooking_time_min": 120
+    },
+    {
+        "menu_name": "미역국",
+        "delivery_avg_price": 10000,
+        "ingredients": [
+            {
+                "name": "미역",
+                "amount_g": 20,
+                "category_code": "SEAWEED"
+            },
+            {
+                "name": "소고기",
+                "amount_g": 100,
+                "category_code": "BEEF"
+            },
+            {
+                "name": "마늘",
+                "amount_g": 10,
+                "category_code": "GARLIC"
+            }
+        ],
+        "cooking_time_min": 40
+    },
+    {
+        "menu_name": "북엇국",
+        "delivery_avg_price": 9000,
+        "ingredients": [
+            {
+                "name": "북어채",
+                "amount_g": 50,
+                "category_code": "DRIED_POLLACK"
+            },
+            {
+                "name": "계란",
+                "amount_g": 60,
+                "category_code": "EGG"
+            },
+            {
+                "name": "대파",
+                "amount_g": 30,
+                "category_code": "GREEN_ONION"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "콩나물국",
+        "delivery_avg_price": 8000,
+        "ingredients": [
+            {
+                "name": "콩나물",
+                "amount_g": 150,
+                "category_code": "BEAN_SPROUTS"
+            },
+            {
+                "name": "대파",
+                "amount_g": 30,
+                "category_code": "GREEN_ONION"
+            },
+            {
+                "name": "마늘",
+                "amount_g": 10,
+                "category_code": "GARLIC"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "소고기무국",
+        "delivery_avg_price": 11000,
+        "ingredients": [
+            {
+                "name": "소고기",
+                "amount_g": 150,
+                "category_code": "BEEF"
+            },
+            {
+                "name": "무",
+                "amount_g": 200,
+                "category_code": "RADISH"
+            },
+            {
+                "name": "대파",
+                "amount_g": 30,
+                "category_code": "GREEN_ONION"
+            }
+        ],
+        "cooking_time_min": 40
+    },
+    {
+        "menu_name": "육개장",
+        "delivery_avg_price": 12000,
+        "ingredients": [
+            {
+                "name": "소고기",
+                "amount_g": 150,
+                "category_code": "BEEF"
+            },
+            {
+                "name": "고사리",
+                "amount_g": 50,
+                "category_code": "FERN"
+            },
+            {
+                "name": "숙주",
+                "amount_g": 100,
+                "category_code": "BEAN_SPROUTS"
+            }
+        ],
+        "cooking_time_min": 60
+    },
+    {
+        "menu_name": "청국장",
+        "delivery_avg_price": 10000,
+        "ingredients": [
+            {
+                "name": "청국장",
+                "amount_g": 100,
+                "category_code": "CHEONGGUKJANG"
+            },
+            {
+                "name": "두부",
+                "amount_g": 150,
+                "category_code": "TOFU"
+            },
+            {
+                "name": "김치",
+                "amount_g": 100,
+                "category_code": "KIMCHI"
+            }
+        ],
+        "cooking_time_min": 25
+    },
+    {
+        "menu_name": "동태찌개",
+        "delivery_avg_price": 14000,
+        "ingredients": [
+            {
+                "name": "동태",
+                "amount_g": 300,
+                "category_code": "POLLACK"
+            },
+            {
+                "name": "무",
+                "amount_g": 150,
+                "category_code": "RADISH"
+            },
+            {
+                "name": "두부",
+                "amount_g": 100,
+                "category_code": "TOFU"
+            }
+        ],
+        "cooking_time_min": 35
+    },
+    {
+        "menu_name": "알탕",
+        "delivery_avg_price": 15000,
+        "ingredients": [
+            {
+                "name": "명란",
+                "amount_g": 150,
+                "category_code": "POLLACK_ROE"
+            },
+            {
+                "name": "곤이",
+                "amount_g": 100,
+                "category_code": "FISH_INTESTINE"
+            },
+            {
+                "name": "콩나물",
+                "amount_g": 100,
+                "category_code": "BEAN_SPROUTS"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "해물탕",
+        "delivery_avg_price": 35000,
+        "ingredients": [
+            {
+                "name": "꽃게",
+                "amount_g": 200,
+                "category_code": "CRAB"
+            },
+            {
+                "name": "새우",
+                "amount_g": 100,
+                "category_code": "SHRIMP"
+            },
+            {
+                "name": "조개",
+                "amount_g": 200,
+                "category_code": "CLAM"
+            }
+        ],
+        "cooking_time_min": 45
+    },
+    {
+        "menu_name": "아구찜",
+        "delivery_avg_price": 38000,
+        "ingredients": [
+            {
+                "name": "아귀",
+                "amount_g": 500,
+                "category_code": "MONKFISH"
+            },
+            {
+                "name": "콩나물",
+                "amount_g": 300,
+                "category_code": "BEAN_SPROUTS"
+            },
+            {
+                "name": "미나리",
+                "amount_g": 50,
+                "category_code": "WATER_PARSLEY"
+            }
+        ],
+        "cooking_time_min": 50
+    },
+    {
+        "menu_name": "낙지볶음",
+        "delivery_avg_price": 22000,
+        "ingredients": [
+            {
+                "name": "낙지",
+                "amount_g": 300,
+                "category_code": "OCTOPUS"
+            },
+            {
+                "name": "양파",
+                "amount_g": 100,
+                "category_code": "ONION"
+            },
+            {
+                "name": "대파",
+                "amount_g": 50,
+                "category_code": "GREEN_ONION"
+            }
+        ],
+        "cooking_time_min": 25
+    },
+    {
+        "menu_name": "쭈꾸미볶음",
+        "delivery_avg_price": 20000,
+        "ingredients": [
+            {
+                "name": "쭈꾸미",
+                "amount_g": 300,
+                "category_code": "WEBFOOT_OCTOPUS"
+            },
+            {
+                "name": "양배추",
+                "amount_g": 100,
+                "category_code": "CABBAGE"
+            },
+            {
+                "name": "대파",
+                "amount_g": 50,
+                "category_code": "GREEN_ONION"
+            }
+        ],
+        "cooking_time_min": 25
+    },
+    {
+        "menu_name": "고등어조림",
+        "delivery_avg_price": 13000,
+        "ingredients": [
+            {
+                "name": "고등어",
+                "amount_g": 300,
+                "category_code": "MACKEREL"
+            },
+            {
+                "name": "무",
+                "amount_g": 200,
+                "category_code": "RADISH"
+            },
+            {
+                "name": "양파",
+                "amount_g": 50,
+                "category_code": "ONION"
+            }
+        ],
+        "cooking_time_min": 40
+    },
+    {
+        "menu_name": "갈치조림",
+        "delivery_avg_price": 18000,
+        "ingredients": [
+            {
+                "name": "갈치",
+                "amount_g": 300,
+                "category_code": "HAIRTAIL"
+            },
+            {
+                "name": "무",
+                "amount_g": 200,
+                "category_code": "RADISH"
+            },
+            {
+                "name": "감자",
+                "amount_g": 100,
+                "category_code": "POTATO"
+            }
+        ],
+        "cooking_time_min": 40
+    },
+    {
+        "menu_name": "삼겹살구이",
+        "delivery_avg_price": 25000,
+        "ingredients": [
+            {
+                "name": "삼겹살",
+                "amount_g": 400,
+                "category_code": "PORK_BELLY"
+            },
+            {
+                "name": "상추",
+                "amount_g": 50,
+                "category_code": "LETTUCE"
+            },
+            {
+                "name": "마늘",
+                "amount_g": 30,
+                "category_code": "GARLIC"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "목살구이",
+        "delivery_avg_price": 24000,
+        "ingredients": [
+            {
+                "name": "목살",
+                "amount_g": 400,
+                "category_code": "PORK_NECK"
+            },
+            {
+                "name": "상추",
+                "amount_g": 50,
+                "category_code": "LETTUCE"
+            },
+            {
+                "name": "쌈장",
+                "amount_g": 30,
+                "category_code": "SSAMJANG"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "소고기스테이크",
+        "delivery_avg_price": 40000,
+        "ingredients": [
+            {
+                "name": "소고기",
+                "amount_g": 300,
+                "category_code": "BEEF_STEAK"
+            },
+            {
+                "name": "아스파라거스",
+                "amount_g": 50,
+                "category_code": "ASPARAGUS"
+            },
+            {
+                "name": "버터",
+                "amount_g": 20,
+                "category_code": "BUTTER"
+            }
+        ],
+        "cooking_time_min": 25
+    },
+    {
+        "menu_name": "돈까스",
+        "delivery_avg_price": 11000,
+        "ingredients": [
+            {
+                "name": "돼지고기",
+                "amount_g": 200,
+                "category_code": "PORK"
+            },
+            {
+                "name": "빵가루",
+                "amount_g": 50,
+                "category_code": "BREAD_CRUMBS"
+            },
+            {
+                "name": "계란",
+                "amount_g": 60,
+                "category_code": "EGG"
+            }
+        ],
+        "cooking_time_min": 40
+    },
+    {
+        "menu_name": "카레라이스",
+        "delivery_avg_price": 9000,
+        "ingredients": [
+            {
+                "name": "카레가루",
+                "amount_g": 50,
+                "category_code": "CURRY_POWDER"
+            },
+            {
+                "name": "감자",
+                "amount_g": 100,
+                "category_code": "POTATO"
+            },
+            {
+                "name": "양파",
+                "amount_g": 100,
+                "category_code": "ONION"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "짜장밥",
+        "delivery_avg_price": 9000,
+        "ingredients": [
+            {
+                "name": "춘장",
+                "amount_g": 50,
+                "category_code": "BLACK_BEAN_PASTE"
+            },
+            {
+                "name": "돼지고기",
+                "amount_g": 100,
+                "category_code": "PORK"
+            },
+            {
+                "name": "양파",
+                "amount_g": 150,
+                "category_code": "ONION"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "오므라이스",
+        "delivery_avg_price": 10000,
+        "ingredients": [
+            {
+                "name": "계란",
+                "amount_g": 120,
+                "category_code": "EGG"
+            },
+            {
+                "name": "쌀밥",
+                "amount_g": 200,
+                "category_code": "RICE"
+            },
+            {
+                "name": "케첩",
+                "amount_g": 30,
+                "category_code": "KETCHUP"
+            }
+        ],
+        "cooking_time_min": 25
+    },
+    {
+        "menu_name": "김치볶음밥",
+        "delivery_avg_price": 9000,
+        "ingredients": [
+            {
+                "name": "김치",
+                "amount_g": 150,
+                "category_code": "KIMCHI"
+            },
+            {
+                "name": "쌀밥",
+                "amount_g": 200,
+                "category_code": "RICE"
+            },
+            {
+                "name": "계란",
+                "amount_g": 60,
+                "category_code": "EGG"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "새우볶음밥",
+        "delivery_avg_price": 9500,
+        "ingredients": [
+            {
+                "name": "새우",
+                "amount_g": 100,
+                "category_code": "SHRIMP"
+            },
+            {
+                "name": "쌀밥",
+                "amount_g": 200,
+                "category_code": "RICE"
+            },
+            {
+                "name": "계란",
+                "amount_g": 60,
+                "category_code": "EGG"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "잔치국수",
+        "delivery_avg_price": 7000,
+        "ingredients": [
+            {
+                "name": "소면",
+                "amount_g": 100,
+                "category_code": "NOODLE"
+            },
+            {
+                "name": "멸치육수",
+                "amount_g": 300,
+                "category_code": "BROTH"
+            },
+            {
+                "name": "애호박",
+                "amount_g": 30,
+                "category_code": "ZUCCHINI"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "비빔국수",
+        "delivery_avg_price": 7500,
+        "ingredients": [
+            {
+                "name": "소면",
+                "amount_g": 100,
+                "category_code": "NOODLE"
+            },
+            {
+                "name": "고추장",
+                "amount_g": 30,
+                "category_code": "GOCHUJANG"
+            },
+            {
+                "name": "오이",
+                "amount_g": 30,
+                "category_code": "CUCUMBER"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "칼국수",
+        "delivery_avg_price": 9000,
+        "ingredients": [
+            {
+                "name": "칼국수면",
+                "amount_g": 150,
+                "category_code": "NOODLE"
+            },
+            {
+                "name": "바지락",
+                "amount_g": 100,
+                "category_code": "CLAM"
+            },
+            {
+                "name": "애호박",
+                "amount_g": 30,
+                "category_code": "ZUCCHINI"
+            }
+        ],
+        "cooking_time_min": 25
+    },
+    {
+        "menu_name": "수제비",
+        "delivery_avg_price": 9000,
+        "ingredients": [
+            {
+                "name": "밀가루",
+                "amount_g": 150,
+                "category_code": "FLOUR"
+            },
+            {
+                "name": "감자",
+                "amount_g": 50,
+                "category_code": "POTATO"
+            },
+            {
+                "name": "멸치육수",
+                "amount_g": 300,
+                "category_code": "BROTH"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "라면",
+        "delivery_avg_price": 4500,
+        "ingredients": [
+            {
+                "name": "라면",
+                "amount_g": 120,
+                "category_code": "RAMEN"
+            },
+            {
+                "name": "계란",
+                "amount_g": 60,
+                "category_code": "EGG"
+            },
+            {
+                "name": "대파",
+                "amount_g": 20,
+                "category_code": "GREEN_ONION"
+            }
+        ],
+        "cooking_time_min": 10
+    },
+    {
+        "menu_name": "우동",
+        "delivery_avg_price": 7000,
+        "ingredients": [
+            {
+                "name": "우동면",
+                "amount_g": 200,
+                "category_code": "UDON"
+            },
+            {
+                "name": "어묵",
+                "amount_g": 50,
+                "category_code": "FISH_CAKE"
+            },
+            {
+                "name": "대파",
+                "amount_g": 20,
+                "category_code": "GREEN_ONION"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "냉면",
+        "delivery_avg_price": 10000,
+        "ingredients": [
+            {
+                "name": "냉면사리",
+                "amount_g": 150,
+                "category_code": "COLD_NOODLE"
+            },
+            {
+                "name": "육수",
+                "amount_g": 300,
+                "category_code": "BROTH"
+            },
+            {
+                "name": "오이",
+                "amount_g": 30,
+                "category_code": "CUCUMBER"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "쫄면",
+        "delivery_avg_price": 8000,
+        "ingredients": [
+            {
+                "name": "쫄면",
+                "amount_g": 150,
+                "category_code": "CHEWY_NOODLE"
+            },
+            {
+                "name": "콩나물",
+                "amount_g": 50,
+                "category_code": "BEAN_SPROUTS"
+            },
+            {
+                "name": "고추장",
+                "amount_g": 40,
+                "category_code": "GOCHUJANG"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "만둣국",
+        "delivery_avg_price": 9000,
+        "ingredients": [
+            {
+                "name": "만두",
+                "amount_g": 200,
+                "category_code": "DUMPLING"
+            },
+            {
+                "name": "계란",
+                "amount_g": 60,
+                "category_code": "EGG"
+            },
+            {
+                "name": "대파",
+                "amount_g": 30,
+                "category_code": "GREEN_ONION"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "떡국",
+        "delivery_avg_price": 9000,
+        "ingredients": [
+            {
+                "name": "떡국떡",
+                "amount_g": 200,
+                "category_code": "RICE_CAKE"
+            },
+            {
+                "name": "소고기",
+                "amount_g": 50,
+                "category_code": "BEEF"
+            },
+            {
+                "name": "계란",
+                "amount_g": 60,
+                "category_code": "EGG"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "김밥",
+        "delivery_avg_price": 4500,
+        "ingredients": [
+            {
+                "name": "김",
+                "amount_g": 5,
+                "category_code": "SEAWEED_SHEET"
+            },
+            {
+                "name": "쌀밥",
+                "amount_g": 150,
+                "category_code": "RICE"
+            },
+            {
+                "name": "단무지",
+                "amount_g": 30,
+                "category_code": "PICKLED_RADISH"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "유부초밥",
+        "delivery_avg_price": 5000,
+        "ingredients": [
+            {
+                "name": "유부",
+                "amount_g": 50,
+                "category_code": "FRIED_TOFU"
+            },
+            {
+                "name": "쌀밥",
+                "amount_g": 150,
+                "category_code": "RICE"
+            },
+            {
+                "name": "식초",
+                "amount_g": 10,
+                "category_code": "VINEGAR"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "주먹밥",
+        "delivery_avg_price": 4000,
+        "ingredients": [
+            {
+                "name": "쌀밥",
+                "amount_g": 150,
+                "category_code": "RICE"
+            },
+            {
+                "name": "김가루",
+                "amount_g": 10,
+                "category_code": "SEAWEED_FLAKES"
+            },
+            {
+                "name": "참치",
+                "amount_g": 30,
+                "category_code": "TUNA"
+            }
+        ],
+        "cooking_time_min": 10
+    },
+    {
+        "menu_name": "샌드위치",
+        "delivery_avg_price": 7000,
+        "ingredients": [
+            {
+                "name": "식빵",
+                "amount_g": 60,
+                "category_code": "BREAD"
+            },
+            {
+                "name": "햄",
+                "amount_g": 30,
+                "category_code": "HAM"
+            },
+            {
+                "name": "치즈",
+                "amount_g": 20,
+                "category_code": "CHEESE"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "토스트",
+        "delivery_avg_price": 4500,
+        "ingredients": [
+            {
+                "name": "식빵",
+                "amount_g": 60,
+                "category_code": "BREAD"
+            },
+            {
+                "name": "계란",
+                "amount_g": 60,
+                "category_code": "EGG"
+            },
+            {
+                "name": "버터",
+                "amount_g": 10,
+                "category_code": "BUTTER"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "샐러드",
+        "delivery_avg_price": 11000,
+        "ingredients": [
+            {
+                "name": "양상추",
+                "amount_g": 100,
+                "category_code": "LETTUCE"
+            },
+            {
+                "name": "토마토",
+                "amount_g": 50,
+                "category_code": "TOMATO"
+            },
+            {
+                "name": "닭가슴살",
+                "amount_g": 100,
+                "category_code": "CHICKEN_BREAST"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "파스타",
+        "delivery_avg_price": 15000,
+        "ingredients": [
+            {
+                "name": "파스타면",
+                "amount_g": 100,
+                "category_code": "PASTA"
+            },
+            {
+                "name": "토마토소스",
+                "amount_g": 150,
+                "category_code": "TOMATO_SAUCE"
+            },
+            {
+                "name": "마늘",
+                "amount_g": 20,
+                "category_code": "GARLIC"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "크림파스타",
+        "delivery_avg_price": 16000,
+        "ingredients": [
+            {
+                "name": "파스타면",
+                "amount_g": 100,
+                "category_code": "PASTA"
+            },
+            {
+                "name": "크림소스",
+                "amount_g": 150,
+                "category_code": "CREAM_SAUCE"
+            },
+            {
+                "name": "베이컨",
+                "amount_g": 30,
+                "category_code": "BACON"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "알리오올리오",
+        "delivery_avg_price": 14000,
+        "ingredients": [
+            {
+                "name": "파스타면",
+                "amount_g": 100,
+                "category_code": "PASTA"
+            },
+            {
+                "name": "마늘",
+                "amount_g": 50,
+                "category_code": "GARLIC"
+            },
+            {
+                "name": "올리브유",
+                "amount_g": 30,
+                "category_code": "OLIVE_OIL"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "피자",
+        "delivery_avg_price": 25000,
+        "ingredients": [
+            {
+                "name": "밀가루",
+                "amount_g": 200,
+                "category_code": "FLOUR"
+            },
+            {
+                "name": "치즈",
+                "amount_g": 200,
+                "category_code": "CHEESE"
+            },
+            {
+                "name": "토마토소스",
+                "amount_g": 100,
+                "category_code": "TOMATO_SAUCE"
+            }
+        ],
+        "cooking_time_min": 60
+    },
+    {
+        "menu_name": "햄버거",
+        "delivery_avg_price": 9000,
+        "ingredients": [
+            {
+                "name": "빵",
+                "amount_g": 80,
+                "category_code": "BUN"
+            },
+            {
+                "name": "소고기패티",
+                "amount_g": 100,
+                "category_code": "BEEF_PATTY"
+            },
+            {
+                "name": "양상추",
+                "amount_g": 30,
+                "category_code": "LETTUCE"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "치킨",
+        "delivery_avg_price": 22000,
+        "ingredients": [
+            {
+                "name": "닭고기",
+                "amount_g": 800,
+                "category_code": "CHICKEN"
+            },
+            {
+                "name": "튀김가루",
+                "amount_g": 200,
+                "category_code": "FRYING_POWDER"
+            },
+            {
+                "name": "식용유",
+                "amount_g": 500,
+                "category_code": "OIL"
+            }
+        ],
+        "cooking_time_min": 50
+    },
+    {
+        "menu_name": "양념치킨",
+        "delivery_avg_price": 23000,
+        "ingredients": [
+            {
+                "name": "닭고기",
+                "amount_g": 800,
+                "category_code": "CHICKEN"
+            },
+            {
+                "name": "튀김가루",
+                "amount_g": 200,
+                "category_code": "FRYING_POWDER"
+            },
+            {
+                "name": "양념소스",
+                "amount_g": 150,
+                "category_code": "SAUCE"
+            }
+        ],
+        "cooking_time_min": 55
+    },
+    {
+        "menu_name": "족발",
+        "delivery_avg_price": 35000,
+        "ingredients": [
+            {
+                "name": "돼지족",
+                "amount_g": 1000,
+                "category_code": "PORK_FEET"
+            },
+            {
+                "name": "간장",
+                "amount_g": 200,
+                "category_code": "SOY_SAUCE"
+            },
+            {
+                "name": "마늘",
+                "amount_g": 50,
+                "category_code": "GARLIC"
+            }
+        ],
+        "cooking_time_min": 120
+    },
+    {
+        "menu_name": "보쌈",
+        "delivery_avg_price": 35000,
+        "ingredients": [
+            {
+                "name": "돼지고기",
+                "amount_g": 600,
+                "category_code": "PORK_BELLY"
+            },
+            {
+                "name": "된장",
+                "amount_g": 50,
+                "category_code": "SOYBEAN_PASTE"
+            },
+            {
+                "name": "마늘",
+                "amount_g": 30,
+                "category_code": "GARLIC"
+            }
+        ],
+        "cooking_time_min": 90
+    },
+    {
+        "menu_name": "탕수육",
+        "delivery_avg_price": 22000,
+        "ingredients": [
+            {
+                "name": "돼지고기",
+                "amount_g": 300,
+                "category_code": "PORK"
+            },
+            {
+                "name": "전분",
+                "amount_g": 100,
+                "category_code": "STARCH"
+            },
+            {
+                "name": "식용유",
+                "amount_g": 500,
+                "category_code": "OIL"
+            }
+        ],
+        "cooking_time_min": 45
+    },
+    {
+        "menu_name": "깐풍기",
+        "delivery_avg_price": 25000,
+        "ingredients": [
+            {
+                "name": "닭고기",
+                "amount_g": 300,
+                "category_code": "CHICKEN"
+            },
+            {
+                "name": "고추",
+                "amount_g": 30,
+                "category_code": "CHILI"
+            },
+            {
+                "name": "마늘",
+                "amount_g": 30,
+                "category_code": "GARLIC"
+            }
+        ],
+        "cooking_time_min": 45
+    },
+    {
+        "menu_name": "마파두부",
+        "delivery_avg_price": 15000,
+        "ingredients": [
+            {
+                "name": "두부",
+                "amount_g": 300,
+                "category_code": "TOFU"
+            },
+            {
+                "name": "돼지고기",
+                "amount_g": 100,
+                "category_code": "PORK"
+            },
+            {
+                "name": "두반장",
+                "amount_g": 30,
+                "category_code": "DOUBANJIANG"
+            }
+        ],
+        "cooking_time_min": 25
+    },
+    {
+        "menu_name": "고추잡채",
+        "delivery_avg_price": 28000,
+        "ingredients": [
+            {
+                "name": "피망",
+                "amount_g": 200,
+                "category_code": "BELL_PEPPER"
+            },
+            {
+                "name": "돼지고기",
+                "amount_g": 150,
+                "category_code": "PORK"
+            },
+            {
+                "name": "꽃빵",
+                "amount_g": 100,
+                "category_code": "FLOWER_BUN"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "양장피",
+        "delivery_avg_price": 32000,
+        "ingredients": [
+            {
+                "name": "양장피",
+                "amount_g": 100,
+                "category_code": "STARCH_SHEET"
+            },
+            {
+                "name": "해산물",
+                "amount_g": 200,
+                "category_code": "SEAFOOD"
+            },
+            {
+                "name": "겨자소스",
+                "amount_g": 50,
+                "category_code": "MUSTARD_SAUCE"
+            }
+        ],
+        "cooking_time_min": 40
+    },
+    {
+        "menu_name": "팔보채",
+        "delivery_avg_price": 35000,
+        "ingredients": [
+            {
+                "name": "해산물모듬",
+                "amount_g": 300,
+                "category_code": "SEAFOOD_MIX"
+            },
+            {
+                "name": "죽순",
+                "amount_g": 50,
+                "category_code": "BAMBOO_SHOOT"
+            },
+            {
+                "name": "버섯",
+                "amount_g": 50,
+                "category_code": "MUSHROOM"
+            }
+        ],
+        "cooking_time_min": 35
+    },
+    {
+        "menu_name": "유산슬",
+        "delivery_avg_price": 32000,
+        "ingredients": [
+            {
+                "name": "해삼",
+                "amount_g": 100,
+                "category_code": "SEA_CUCUMBER"
+            },
+            {
+                "name": "죽순",
+                "amount_g": 50,
+                "category_code": "BAMBOO_SHOOT"
+            },
+            {
+                "name": "돼지고기",
+                "amount_g": 50,
+                "category_code": "PORK"
+            }
+        ],
+        "cooking_time_min": 35
+    },
+    {
+        "menu_name": "짬뽕",
+        "delivery_avg_price": 9000,
+        "ingredients": [
+            {
+                "name": "중화면",
+                "amount_g": 150,
+                "category_code": "NOODLE"
+            },
+            {
+                "name": "오징어",
+                "amount_g": 50,
+                "category_code": "SQUID"
+            },
+            {
+                "name": "홍합",
+                "amount_g": 50,
+                "category_code": "MUSSEL"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "울면",
+        "delivery_avg_price": 9000,
+        "ingredients": [
+            {
+                "name": "중화면",
+                "amount_g": 150,
+                "category_code": "NOODLE"
+            },
+            {
+                "name": "전분",
+                "amount_g": 20,
+                "category_code": "STARCH"
+            },
+            {
+                "name": "계란",
+                "amount_g": 60,
+                "category_code": "EGG"
+            }
+        ],
+        "cooking_time_min": 25
+    },
+    {
+        "menu_name": "볶음우동",
+        "delivery_avg_price": 10000,
+        "ingredients": [
+            {
+                "name": "우동면",
+                "amount_g": 200,
+                "category_code": "UDON"
+            },
+            {
+                "name": "해산물",
+                "amount_g": 100,
+                "category_code": "SEAFOOD"
+            },
+            {
+                "name": "가쓰오부시",
+                "amount_g": 10,
+                "category_code": "BONITO_FLAKES"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "야끼소바",
+        "delivery_avg_price": 11000,
+        "ingredients": [
+            {
+                "name": "면",
+                "amount_g": 150,
+                "category_code": "NOODLE"
+            },
+            {
+                "name": "양배추",
+                "amount_g": 100,
+                "category_code": "CABBAGE"
+            },
+            {
+                "name": "돼지고기",
+                "amount_g": 50,
+                "category_code": "PORK"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "오코노미야끼",
+        "delivery_avg_price": 15000,
+        "ingredients": [
+            {
+                "name": "양배추",
+                "amount_g": 200,
+                "category_code": "CABBAGE"
+            },
+            {
+                "name": "밀가루",
+                "amount_g": 100,
+                "category_code": "FLOUR"
+            },
+            {
+                "name": "베이컨",
+                "amount_g": 50,
+                "category_code": "BACON"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "타코야끼",
+        "delivery_avg_price": 6000,
+        "ingredients": [
+            {
+                "name": "밀가루",
+                "amount_g": 100,
+                "category_code": "FLOUR"
+            },
+            {
+                "name": "문어",
+                "amount_g": 50,
+                "category_code": "OCTOPUS"
+            },
+            {
+                "name": "가쓰오부시",
+                "amount_g": 10,
+                "category_code": "BONITO_FLAKES"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "초밥",
+        "delivery_avg_price": 18000,
+        "ingredients": [
+            {
+                "name": "생선회",
+                "amount_g": 150,
+                "category_code": "SASHIMI"
+            },
+            {
+                "name": "쌀밥",
+                "amount_g": 200,
+                "category_code": "RICE"
+            },
+            {
+                "name": "와사비",
+                "amount_g": 10,
+                "category_code": "WASABI"
+            }
+        ],
+        "cooking_time_min": 40
+    },
+    {
+        "menu_name": "회덮밥",
+        "delivery_avg_price": 12000,
+        "ingredients": [
+            {
+                "name": "생선회",
+                "amount_g": 100,
+                "category_code": "SASHIMI"
+            },
+            {
+                "name": "쌀밥",
+                "amount_g": 200,
+                "category_code": "RICE"
+            },
+            {
+                "name": "상추",
+                "amount_g": 50,
+                "category_code": "LETTUCE"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "물회",
+        "delivery_avg_price": 15000,
+        "ingredients": [
+            {
+                "name": "생선회",
+                "amount_g": 100,
+                "category_code": "SASHIMI"
+            },
+            {
+                "name": "육수",
+                "amount_g": 300,
+                "category_code": "BROTH"
+            },
+            {
+                "name": "오이",
+                "amount_g": 30,
+                "category_code": "CUCUMBER"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "매운탕",
+        "delivery_avg_price": 30000,
+        "ingredients": [
+            {
+                "name": "생선뼈",
+                "amount_g": 500,
+                "category_code": "FISH_BONE"
+            },
+            {
+                "name": "무",
+                "amount_g": 200,
+                "category_code": "RADISH"
+            },
+            {
+                "name": "쑥갓",
+                "amount_g": 50,
+                "category_code": "CROWN_DAISY"
+            }
+        ],
+        "cooking_time_min": 40
+    },
+    {
+        "menu_name": "쌀국수",
+        "delivery_avg_price": 11000,
+        "ingredients": [
+            {
+                "name": "쌀국수면",
+                "amount_g": 150,
+                "category_code": "RICE_NOODLE"
+            },
+            {
+                "name": "소고기",
+                "amount_g": 50,
+                "category_code": "BEEF"
+            },
+            {
+                "name": "숙주",
+                "amount_g": 100,
+                "category_code": "BEAN_SPROUTS"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "팟타이",
+        "delivery_avg_price": 12000,
+        "ingredients": [
+            {
+                "name": "쌀국수면",
+                "amount_g": 150,
+                "category_code": "RICE_NOODLE"
+            },
+            {
+                "name": "새우",
+                "amount_g": 50,
+                "category_code": "SHRIMP"
+            },
+            {
+                "name": "땅콩",
+                "amount_g": 20,
+                "category_code": "PEANUT"
+            }
+        ],
+        "cooking_time_min": 25
+    },
+    {
+        "menu_name": "나시고랭",
+        "delivery_avg_price": 11000,
+        "ingredients": [
+            {
+                "name": "쌀밥",
+                "amount_g": 200,
+                "category_code": "RICE"
+            },
+            {
+                "name": "새우",
+                "amount_g": 50,
+                "category_code": "SHRIMP"
+            },
+            {
+                "name": "계란",
+                "amount_g": 60,
+                "category_code": "EGG"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "미고랭",
+        "delivery_avg_price": 11000,
+        "ingredients": [
+            {
+                "name": "에그누들",
+                "amount_g": 150,
+                "category_code": "EGG_NOODLE"
+            },
+            {
+                "name": "닭고기",
+                "amount_g": 50,
+                "category_code": "CHICKEN"
+            },
+            {
+                "name": "청경채",
+                "amount_g": 50,
+                "category_code": "BOK_CHOY"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "분짜",
+        "delivery_avg_price": 13000,
+        "ingredients": [
+            {
+                "name": "쌀국수면",
+                "amount_g": 150,
+                "category_code": "RICE_NOODLE"
+            },
+            {
+                "name": "돼지고기",
+                "amount_g": 100,
+                "category_code": "PORK"
+            },
+            {
+                "name": "느억맘소스",
+                "amount_g": 50,
+                "category_code": "FISH_SAUCE"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "월남쌈",
+        "delivery_avg_price": 25000,
+        "ingredients": [
+            {
+                "name": "라이스페이퍼",
+                "amount_g": 50,
+                "category_code": "RICE_PAPER"
+            },
+            {
+                "name": "새우",
+                "amount_g": 100,
+                "category_code": "SHRIMP"
+            },
+            {
+                "name": "파프리카",
+                "amount_g": 100,
+                "category_code": "PAPRIKA"
+            }
+        ],
+        "cooking_time_min": 40
+    },
+    {
+        "menu_name": "타코",
+        "delivery_avg_price": 12000,
+        "ingredients": [
+            {
+                "name": "또띠아",
+                "amount_g": 50,
+                "category_code": "TORTILLA"
+            },
+            {
+                "name": "고기",
+                "amount_g": 100,
+                "category_code": "MEAT"
+            },
+            {
+                "name": "살사소스",
+                "amount_g": 30,
+                "category_code": "SALSA"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "부리또",
+        "delivery_avg_price": 10000,
+        "ingredients": [
+            {
+                "name": "또띠아",
+                "amount_g": 50,
+                "category_code": "TORTILLA"
+            },
+            {
+                "name": "쌀밥",
+                "amount_g": 100,
+                "category_code": "RICE"
+            },
+            {
+                "name": "콩",
+                "amount_g": 50,
+                "category_code": "BEAN"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "퀘사디아",
+        "delivery_avg_price": 11000,
+        "ingredients": [
+            {
+                "name": "또띠아",
+                "amount_g": 50,
+                "category_code": "TORTILLA"
+            },
+            {
+                "name": "치즈",
+                "amount_g": 100,
+                "category_code": "CHEESE"
+            },
+            {
+                "name": "닭고기",
+                "amount_g": 50,
+                "category_code": "CHICKEN"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "마라탕",
+        "delivery_avg_price": 15000,
+        "ingredients": [
+            {
+                "name": "중국당면",
+                "amount_g": 100,
+                "category_code": "GLASS_NOODLE"
+            },
+            {
+                "name": "푸주",
+                "amount_g": 50,
+                "category_code": "DRIED_TOFU"
+            },
+            {
+                "name": "청경채",
+                "amount_g": 50,
+                "category_code": "BOK_CHOY"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "마라샹궈",
+        "delivery_avg_price": 25000,
+        "ingredients": [
+            {
+                "name": "소고기",
+                "amount_g": 150,
+                "category_code": "BEEF"
+            },
+            {
+                "name": "연근",
+                "amount_g": 50,
+                "category_code": "LOTUS_ROOT"
+            },
+            {
+                "name": "숙주",
+                "amount_g": 100,
+                "category_code": "BEAN_SPROUTS"
+            }
+        ],
+        "cooking_time_min": 25
+    },
+    {
+        "menu_name": "꿔바로우",
+        "delivery_avg_price": 18000,
+        "ingredients": [
+            {
+                "name": "돼지고기",
+                "amount_g": 200,
+                "category_code": "PORK"
+            },
+            {
+                "name": "전분",
+                "amount_g": 100,
+                "category_code": "STARCH"
+            },
+            {
+                "name": "설탕",
+                "amount_g": 50,
+                "category_code": "SUGAR"
+            }
+        ],
+        "cooking_time_min": 40
+    },
+    {
+        "menu_name": "양꼬치",
+        "delivery_avg_price": 14000,
+        "ingredients": [
+            {
+                "name": "양고기",
+                "amount_g": 200,
+                "category_code": "LAMB"
+            },
+            {
+                "name": "쯔란",
+                "amount_g": 10,
+                "category_code": "CUMIN"
+            },
+            {
+                "name": "마늘",
+                "amount_g": 20,
+                "category_code": "GARLIC"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "훠궈",
+        "delivery_avg_price": 40000,
+        "ingredients": [
+            {
+                "name": "소고기",
+                "amount_g": 300,
+                "category_code": "BEEF"
+            },
+            {
+                "name": "배추",
+                "amount_g": 200,
+                "category_code": "CABBAGE"
+            },
+            {
+                "name": "버섯",
+                "amount_g": 100,
+                "category_code": "MUSHROOM"
+            }
+        ],
+        "cooking_time_min": 60
+    },
+    {
+        "menu_name": "딤섬",
+        "delivery_avg_price": 8000,
+        "ingredients": [
+            {
+                "name": "만두피",
+                "amount_g": 50,
+                "category_code": "DUMPLING_WRAPPER"
+            },
+            {
+                "name": "새우",
+                "amount_g": 50,
+                "category_code": "SHRIMP"
+            },
+            {
+                "name": "돼지고기",
+                "amount_g": 50,
+                "category_code": "PORK"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "완탕면",
+        "delivery_avg_price": 9000,
+        "ingredients": [
+            {
+                "name": "에그누들",
+                "amount_g": 150,
+                "category_code": "EGG_NOODLE"
+            },
+            {
+                "name": "완탕",
+                "amount_g": 100,
+                "category_code": "WANTON"
+            },
+            {
+                "name": "청경채",
+                "amount_g": 30,
+                "category_code": "BOK_CHOY"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "탄탄면",
+        "delivery_avg_price": 10000,
+        "ingredients": [
+            {
+                "name": "면",
+                "amount_g": 150,
+                "category_code": "NOODLE"
+            },
+            {
+                "name": "땅콩소스",
+                "amount_g": 50,
+                "category_code": "PEANUT_SAUCE"
+            },
+            {
+                "name": "다진고기",
+                "amount_g": 50,
+                "category_code": "MINCED_MEAT"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "규동",
+        "delivery_avg_price": 9000,
+        "ingredients": [
+            {
+                "name": "소고기",
+                "amount_g": 100,
+                "category_code": "BEEF"
+            },
+            {
+                "name": "쌀밥",
+                "amount_g": 200,
+                "category_code": "RICE"
+            },
+            {
+                "name": "양파",
+                "amount_g": 50,
+                "category_code": "ONION"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "가츠동",
+        "delivery_avg_price": 9500,
+        "ingredients": [
+            {
+                "name": "돈까스",
+                "amount_g": 150,
+                "category_code": "PORK_CUTLET"
+            },
+            {
+                "name": "쌀밥",
+                "amount_g": 200,
+                "category_code": "RICE"
+            },
+            {
+                "name": "계란",
+                "amount_g": 60,
+                "category_code": "EGG"
+            }
+        ],
+        "cooking_time_min": 25
+    },
+    {
+        "menu_name": "텐동",
+        "delivery_avg_price": 12000,
+        "ingredients": [
+            {
+                "name": "튀김",
+                "amount_g": 150,
+                "category_code": "TEMPURA"
+            },
+            {
+                "name": "쌀밥",
+                "amount_g": 200,
+                "category_code": "RICE"
+            },
+            {
+                "name": "간장소스",
+                "amount_g": 30,
+                "category_code": "SOY_SAUCE"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "사케동",
+        "delivery_avg_price": 14000,
+        "ingredients": [
+            {
+                "name": "연어",
+                "amount_g": 150,
+                "category_code": "SALMON"
+            },
+            {
+                "name": "쌀밥",
+                "amount_g": 200,
+                "category_code": "RICE"
+            },
+            {
+                "name": "와사비",
+                "amount_g": 10,
+                "category_code": "WASABI"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "스테이크덮밥",
+        "delivery_avg_price": 13000,
+        "ingredients": [
+            {
+                "name": "소고기",
+                "amount_g": 150,
+                "category_code": "BEEF"
+            },
+            {
+                "name": "쌀밥",
+                "amount_g": 200,
+                "category_code": "RICE"
+            },
+            {
+                "name": "숙주",
+                "amount_g": 50,
+                "category_code": "BEAN_SPROUTS"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "장어덮밥",
+        "delivery_avg_price": 25000,
+        "ingredients": [
+            {
+                "name": "장어",
+                "amount_g": 150,
+                "category_code": "EEL"
+            },
+            {
+                "name": "쌀밥",
+                "amount_g": 200,
+                "category_code": "RICE"
+            },
+            {
+                "name": "생강",
+                "amount_g": 10,
+                "category_code": "GINGER"
+            }
+        ],
+        "cooking_time_min": 30
+    },
+    {
+        "menu_name": "카레우동",
+        "delivery_avg_price": 9000,
+        "ingredients": [
+            {
+                "name": "우동면",
+                "amount_g": 200,
+                "category_code": "UDON"
+            },
+            {
+                "name": "카레",
+                "amount_g": 150,
+                "category_code": "CURRY"
+            },
+            {
+                "name": "소고기",
+                "amount_g": 50,
+                "category_code": "BEEF"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "냉모밀",
+        "delivery_avg_price": 8000,
+        "ingredients": [
+            {
+                "name": "메밀면",
+                "amount_g": 150,
+                "category_code": "BUCKWHEAT_NOODLE"
+            },
+            {
+                "name": "쯔유",
+                "amount_g": 50,
+                "category_code": "TSUYU"
+            },
+            {
+                "name": "무",
+                "amount_g": 20,
+                "category_code": "RADISH"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "판모밀",
+        "delivery_avg_price": 8000,
+        "ingredients": [
+            {
+                "name": "메밀면",
+                "amount_g": 150,
+                "category_code": "BUCKWHEAT_NOODLE"
+            },
+            {
+                "name": "쯔유",
+                "amount_g": 50,
+                "category_code": "TSUYU"
+            },
+            {
+                "name": "김",
+                "amount_g": 5,
+                "category_code": "SEAWEED"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "콩국수",
+        "delivery_avg_price": 9000,
+        "ingredients": [
+            {
+                "name": "소면",
+                "amount_g": 150,
+                "category_code": "NOODLE"
+            },
+            {
+                "name": "콩국물",
+                "amount_g": 300,
+                "category_code": "SOY_MILK"
+            },
+            {
+                "name": "오이",
+                "amount_g": 30,
+                "category_code": "CUCUMBER"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "열무국수",
+        "delivery_avg_price": 8000,
+        "ingredients": [
+            {
+                "name": "소면",
+                "amount_g": 150,
+                "category_code": "NOODLE"
+            },
+            {
+                "name": "열무김치",
+                "amount_g": 100,
+                "category_code": "YOUNG_RADISH_KIMCHI"
+            },
+            {
+                "name": "육수",
+                "amount_g": 200,
+                "category_code": "BROTH"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "비빔냉면",
+        "delivery_avg_price": 10000,
+        "ingredients": [
+            {
+                "name": "냉면사리",
+                "amount_g": 150,
+                "category_code": "COLD_NOODLE"
+            },
+            {
+                "name": "양념장",
+                "amount_g": 50,
+                "category_code": "SAUCE"
+            },
+            {
+                "name": "무절임",
+                "amount_g": 30,
+                "category_code": "PICKLED_RADISH"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "회냉면",
+        "delivery_avg_price": 12000,
+        "ingredients": [
+            {
+                "name": "냉면사리",
+                "amount_g": 150,
+                "category_code": "COLD_NOODLE"
+            },
+            {
+                "name": "홍어회",
+                "amount_g": 50,
+                "category_code": "SKATE"
+            },
+            {
+                "name": "양념장",
+                "amount_g": 50,
+                "category_code": "SAUCE"
+            }
+        ],
+        "cooking_time_min": 15
+    },
+    {
+        "menu_name": "평양냉면",
+        "delivery_avg_price": 14000,
+        "ingredients": [
+            {
+                "name": "메밀면",
+                "amount_g": 150,
+                "category_code": "BUCKWHEAT_NOODLE"
+            },
+            {
+                "name": "육수",
+                "amount_g": 300,
+                "category_code": "BEEF_BROTH"
+            },
+            {
+                "name": "소고기",
+                "amount_g": 30,
+                "category_code": "BEEF"
+            }
+        ],
+        "cooking_time_min": 20
+    },
+    {
+        "menu_name": "함흥냉면",
+        "delivery_avg_price": 11000,
+        "ingredients": [
+            {
+                "name": "고구마전분면",
+                "amount_g": 150,
+                "category_code": "STARCH_NOODLE"
+            },
+            {
+                "name": "양념장",
+                "amount_g": 50,
+                "category_code": "SAUCE"
+            },
+            {
+                "name": "오이",
+                "amount_g": 30,
+                "category_code": "CUCUMBER"
+            }
+        ],
+        "cooking_time_min": 15
+    }
+]
